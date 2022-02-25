@@ -1,0 +1,11 @@
+C:\Users\Aluno\source\repos\CRUDBARTO\CRUDBARTO\obj\Debug\CRUDBARTO.csprojAssemblyReference.cache
+C:\Users\Aluno\source\repos\CRUDBARTO\CRUDBARTO\obj\Debug\CRUDBARTO.Form1.resources
+C:\Users\Aluno\source\repos\CRUDBARTO\CRUDBARTO\obj\Debug\CRUDBARTO.Properties.Resources.resources
+C:\Users\Aluno\source\repos\CRUDBARTO\CRUDBARTO\obj\Debug\CRUDBARTO.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\CRUDBARTO\CRUDBARTO\bin\Debug\Cad.mdf
+C:\Users\Aluno\source\repos\CRUDBARTO\CRUDBARTO\bin\Debug\Cad_log.ldf
+C:\Users\Aluno\source\repos\CRUDBARTO\CRUDBARTO\bin\Debug\CRUDBARTO.exe.config
+C:\Users\Aluno\source\repos\CRUDBARTO\CRUDBARTO\bin\Debug\CRUDBARTO.exe
+C:\Users\Aluno\source\repos\CRUDBARTO\CRUDBARTO\bin\Debug\CRUDBARTO.pdb
+C:\Users\Aluno\source\repos\CRUDBARTO\CRUDBARTO\obj\Debug\CRUDBARTO.exe
+C:\Users\Aluno\source\repos\CRUDBARTO\CRUDBARTO\obj\Debug\CRUDBARTO.pdb
